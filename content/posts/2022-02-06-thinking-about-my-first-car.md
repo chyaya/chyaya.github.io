@@ -39,3 +39,4 @@ EV라고 해서 내장이 특별히 다르지 않고 기존 내연기관 자동�
 
 아직 확실히 마음을 정한 것은 아니지만 아마도 테슬라 모델Y를 구매하게 될 것 같다.
 
+![tesla-model-y](https://user-images.githubusercontent.com/2844718/152677753-be42b1e7-0d6d-4940-bd80-1a3ce7c3e257.png)
