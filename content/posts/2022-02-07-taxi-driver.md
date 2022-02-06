@@ -1,7 +1,7 @@
 ---
 title: "택시 드라이버 (1976)"
 date: 2022-02-07T01:58:00+09:00
-draft: true
+draft: false
 categories:
   - Movie
 tags:
