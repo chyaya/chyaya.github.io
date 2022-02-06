@@ -5,7 +5,7 @@ draft: false
 categories:
   - Movie
 tags:
-  - Movie
+  - Stanley-Kubrick
   - Stephen-King
   - Horror
 ---
