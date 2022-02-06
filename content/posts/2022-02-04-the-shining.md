@@ -1,5 +1,5 @@
 ---
-title: "드디어 샤이닝을 보다"
+title: "샤이닝 (1980)"
 date: 2022-02-04T04:50:00+09:00
 draft: false
 categories:
